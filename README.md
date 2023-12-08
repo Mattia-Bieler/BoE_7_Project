@@ -1,5 +1,5 @@
 # Bank Speeches Project
-This repository will contain all files for the Bank of England Project.
+This repository contains all files for the Bank of England Project.
 
 The main branch has the Jupyter Notebook and Tableau Dashboard.
 
