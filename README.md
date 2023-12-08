@@ -1,5 +1,5 @@
-# BoE_7_Project
-This repository will contain all files for the Bank of England Employer Project.
+# Bank Speeches Project
+This repository will contain all files for the Bank of England Project.
 
 The main branch has the Jupyter Notebook and Tableau Dashboard.
 
